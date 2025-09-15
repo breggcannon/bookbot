@@ -1,4 +1,3 @@
-This is  a learning tool for me that you can use to parse book text
-
 # bookbot
-book parsing learning tool
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
